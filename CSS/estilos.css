@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://invisibleworldd.files.wordpress.com/2017/04/blue_sky_150abc_cool_simple.jpg?w=1344&h=744&crop=1);
+    background-size: auto 100vh;
+    font-family: poppins;
+   }
+  
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  .site-title {
+    color: blue;
+    text-align:  center;
+    
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .text {
+    color: blue;
+    text-align: center;
+  }
